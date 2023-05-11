@@ -1,0 +1,1 @@
+arr = [int(i) for i in input("Enter numbers seperated by space ").split()]
